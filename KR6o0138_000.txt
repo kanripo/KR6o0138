@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 犍稚梵讚
+#+DATE: 2015-08-30 21:01:34.564997
+#+PROPERTY: JUAN 0
